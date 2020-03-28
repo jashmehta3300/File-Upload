@@ -1,0 +1,30 @@
+{
+  "name": "upload-files",
+  "version": "1.0.0",
+  "description": "A file uploading system in Node.js and MongoDB Atlas using Gridfs and Multer ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jashmehta3300/File-Upload.git"
+  },
+  "author": "Jash Mehta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jashmehta3300/File-Upload/issues"
+  },
+  "homepage": "https://github.com/jashmehta3300/File-Upload#readme",
+  "dependencies": {
+    "ejs": "^3.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.11",
+    "multer": "^1.4.2",
+    "multer-gridfs-storage": "4.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
