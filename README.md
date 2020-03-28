@@ -16,7 +16,7 @@ To read more about the GridFS bucket [read more](https://mongodb.github.io/node-
 
 ## Usage
 
-Download or Clone the project, `cd node-js-file-upload`
+Download or Clone the project,
 
 then install all the required dev and depenedencies by running
 
